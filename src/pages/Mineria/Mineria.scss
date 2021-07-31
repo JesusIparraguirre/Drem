@@ -1,0 +1,21 @@
+@import '../../styles/app';
+.tables-basic {
+    .table th {
+        font-size: $font-size-sm;
+    }
+}
+.no-p-r{
+    padding-right: 0px;
+}
+.btn-buscar{
+    outline: none !important;
+    background-color:transparent !important;
+    border: none!important;
+    padding-top: 0.5px !important;
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+}
+.bordes{
+    border-radius: 15px 0px 0px 15px;
+    height: 33px;
+}
